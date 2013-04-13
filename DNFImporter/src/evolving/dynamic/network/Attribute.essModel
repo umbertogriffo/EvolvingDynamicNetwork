@@ -1,0 +1,54 @@
+[Box: ::org.umberto.dnf_importer - ::<<Unknown>>::FileImporter]
+X=868
+Y=928
+
+[Box: ::org.umberto.dnf_importer - ::<<Unknown>>::FileImporterBuilder]
+X=635
+Y=928
+
+[Box: ::org.umberto.dnf_importer - ::<<Unknown>>::JPanel]
+X=436
+Y=40
+
+[Box: ::org.umberto.dnf_importer - ::<<Unknown>>::LongTask]
+X=1073
+Y=928
+
+[Box: ::org.umberto.dnf_importer - ::<<Unknown>>::RuntimeException]
+X=206
+Y=40
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::Attribute]
+X=20
+Y=928
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::DnfImporter]
+X=954
+Y=40
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::DnfImporterBuilder]
+X=649
+Y=40
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::DnfImporterPanel]
+X=429
+Y=264
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::DnfImporterUI]
+X=1394
+Y=40
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::IllegalValueException]
+X=225
+Y=928
+
+[Box: ::org.umberto.dnf_importer - ::org.umberto.dnf_importer::ValidationType]
+X=1189
+Y=40
+
+[Diagram: ::org.umberto.dnf_importer]
+OffsetX=0
+OffsetY=494
+Visibility=0
+ShowAssoc=1
+
