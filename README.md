@@ -1,4 +1,4 @@
-## Evolving Dynamic Network for Gephi
+## Evolving Dynamic Network for Gephi 0.8.2
 * Authors: Umberto Griffo, Francesco Ficarola
 * Twitter: @UmbertoGriffo, @f_ficarola
 
