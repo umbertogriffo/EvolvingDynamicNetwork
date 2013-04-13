@@ -4,6 +4,9 @@
 
 This plugins allows to simulate algorithms on Evolving Dynamic Network.
 
+Branches contains Plugins:
+* DNF Importer
+
 References:
 * DNF(Dynamic Network Format): https://github.com/francesco-ficarola/dnf
 * Case study (Available only in Italian language):http://www.slideshare.net/umbertogriffo/validation-and-analysis-of-mobility-models-17078170
