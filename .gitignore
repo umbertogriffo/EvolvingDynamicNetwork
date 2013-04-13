@@ -1,1 +1,11 @@
-/DNFImporter/build/
+**/build
+**/nbproject/private
+**/nbproject/platform.properties
+nbproject/project.properties
+**/dist
+.DS_Store
+toolkit
+keystore.ks
+dist/**
+build/**
+nbproject/private/**
