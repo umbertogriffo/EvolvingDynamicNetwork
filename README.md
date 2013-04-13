@@ -1,4 +1,4 @@
-EvolvingDynamicNetwork
+DNF (Dynamic Network Format)
 ======================
 
-Simulation of algorithms on Evolving Dynamic Network 
+DNF is a format for representing static and dynamic networks.
