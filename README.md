@@ -5,7 +5,7 @@
 This plugins allows to simulate algorithms on Evolving Dynamic Network.
 
 References:
-* DNF: https://github.com/francesco-ficarola/dnf
+* DNF(Dynamic Network Format): https://github.com/francesco-ficarola/dnf
 * Case study (Available only in Italian language):http://www.slideshare.net/umbertogriffo/validation-and-analysis-of-mobility-models-17078170
 
 # License
