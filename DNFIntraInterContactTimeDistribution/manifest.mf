@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: evolving.dynamic.network.metric.InterIntraContactTime
+OpenIDE-Module-Localizing-Bundle: evolving/dynamic/network/metric/InterIntraContactTime/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
