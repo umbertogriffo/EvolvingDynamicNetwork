@@ -18,7 +18,7 @@ The Average Inter-contact Time is the mean value of elapsed time between the sam
 
 ![erdos](http://img853.imageshack.us/img853/751/interdistribution.png)
 
-graph_2012-07-16_13.01.26.dnf is downloadable at https://github.com/umbertogriffo/EvolvingDynamicNetwork/blob/master/graph_2012-07-16_13.01.26.dnf
+graph_2012-07-16_13.01.26.dnf is downloadable [here](https://github.com/umbertogriffo/EvolvingDynamicNetwork/blob/master/graph_2012-07-16_13.01.26.dnf)
 
 References:
 * DNF(Dynamic Network Format): https://github.com/francesco-ficarola/dnf
