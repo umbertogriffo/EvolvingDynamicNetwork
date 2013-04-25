@@ -1,4 +1,4 @@
-## DNF Inta Inter Contact Time Distributions
+## DNF Inta-Inter Contact Time Distributions
 * Authors: Umberto Griffo
 
 This plugins allows to calculate the Intra and Inter Contact Time Distributions of an Evolving Dynamic Network.
