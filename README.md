@@ -14,7 +14,7 @@ Branches contains the following Plugins:
 
 References:
 * DNF(Dynamic Network Format): https://github.com/francesco-ficarola/dnf
-* FastUtils http://fastutil.di.unimi.it/
+* Fastutil library http://fastutil.di.unimi.it/
 * Case study (Available only in Italian language):http://www.slideshare.net/umbertogriffo/validation-and-analysis-of-mobility-models-17078170
 
 # License
