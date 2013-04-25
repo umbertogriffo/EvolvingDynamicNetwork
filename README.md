@@ -1,13 +1,8 @@
-## Evolving Dynamic Network for Gephi 0.8.2
-* Authors: Umberto Griffo, Francesco Ficarola
-* Twitter: @UmbertoGriffo, @f_ficarola
+## DNF Inta Inter Contact Time Distributions
+* Authors: Umberto Griffo
 
-This plugins allows to simulate algorithms on Evolving Dynamic Network.
+This plugins allows to calculate the Intra and Inter Contact Time Distributions of an Evolving Dynamic Network.
 
-Branches contains Plugins:
-* DNF Importer
-
-###Stay tuned for more plugins!
 
 References:
 * DNF(Dynamic Network Format): https://github.com/francesco-ficarola/dnf
