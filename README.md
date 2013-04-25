@@ -4,13 +4,21 @@
 
 This plugins allows to simulate algorithms on Evolving Dynamic Network.
 
-Branches contains Plugins:
-* DNF Importer
+### DNF(Dynamic Network Format) Dynamic:
+Implementation of an efficient dinamicity simulator (with Fastutil data structures).
+This simulator support only DNF graphs imported into gephi with the DNF Importer plugin.
+
+Branches contains the following Plugins:
+* Importers:
+  * DNF(Dynamic Network Format) Importer
+* Dynamic Metrics: 
+  * DNF Intra-Inter Contact Time Distributions
 
 ###Stay tuned for more plugins!
 
 References:
 * DNF(Dynamic Network Format): https://github.com/francesco-ficarola/dnf
+* Fastutil library http://fastutil.di.unimi.it/
 * Case study (Available only in Italian language):http://www.slideshare.net/umbertogriffo/validation-and-analysis-of-mobility-models-17078170
 
 # License
