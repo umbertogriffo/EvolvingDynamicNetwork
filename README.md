@@ -10,9 +10,9 @@ This simulator support only DNF graphs imported into gephi with the DNF Importer
 
 Branches contains the following Plugins:
 * Importers:
-  * DNF(Dynamic Network Format) Importer
+  * [DNF Importer](https://github.com/umbertogriffo/EvolvingDynamicNetwork/tree/DNFImporter)
 * Dynamic Metrics: 
-  * DNF Intra-Inter Contact Time Distributions
+  * [DNF Intra-Inter Contact Time Distributions](https://github.com/umbertogriffo/EvolvingDynamicNetwork/tree/DNFIntraInterContactTimeDistribution)
 
 ###Stay tuned for more plugins!
 
