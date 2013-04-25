@@ -4,7 +4,7 @@
 
 This plugins allows to simulate algorithms on Evolving Dynamic Network.
 
-# DNF(Dynamic Network Format) Dynamic:
+### DNF(Dynamic Network Format) Dynamic:
 Implementation of an efficient dinamicity simulator (with FastUtils data structures).
 
 Branches contains the following Plugins:
