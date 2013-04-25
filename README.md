@@ -2,6 +2,7 @@
 * Authors: Umberto Griffo
 
 This plugins allows to calculate the Intra and Inter Contact Time Distributions of an Evolving Dynamic Network.
+This dynamic metric support only DNF graphs imported into gephi with the DNF Importer plugin.
 
 
 References:
