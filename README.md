@@ -9,8 +9,10 @@ Implementation of an efficient dinamicity simulator (with Fastutil data structur
 This simulator support only DNF graphs imported into gephi with the DNF Importer plugin.
 
 Branches contains the following Plugins:
-* DNF(Dynamic Network Format) Importer
-* DNF Intra-Inter Contact Time Distributions
+* Importers:
+  * DNF(Dynamic Network Format) Importer
+* Dynamic Metrics: 
+  * DNF Intra-Inter Contact Time Distributions
 
 ###Stay tuned for more plugins!
 
