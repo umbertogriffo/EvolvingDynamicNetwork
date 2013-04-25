@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: evolving.dynamic.networks
+OpenIDE-Module-Localizing-Bundle: evolving/dynamic/networks/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

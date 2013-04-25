@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>fastutils</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>it.unimi.dsi.fastutil</package>
+                <package>it.unimi.dsi.fastutil.booleans</package>
+                <package>it.unimi.dsi.fastutil.bytes</package>
+                <package>it.unimi.dsi.fastutil.chars</package>
+                <package>it.unimi.dsi.fastutil.doubles</package>
+                <package>it.unimi.dsi.fastutil.floats</package>
+                <package>it.unimi.dsi.fastutil.ints</package>
+                <package>it.unimi.dsi.fastutil.io</package>
+                <package>it.unimi.dsi.fastutil.longs</package>
+                <package>it.unimi.dsi.fastutil.objects</package>
+                <package>it.unimi.dsi.fastutil.shorts</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/fastutil-6.4.4.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/fastutil-6.4.4.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

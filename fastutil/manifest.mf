@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: fastutils
+OpenIDE-Module-Localizing-Bundle: fastutils/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
