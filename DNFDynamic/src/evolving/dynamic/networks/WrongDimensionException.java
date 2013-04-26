@@ -1,6 +1,6 @@
 /*
  Authors : Umberto Griffo <umberto.griffo@gmail.com>
- Linkedin : it.linkedin.com/pub/umberto-griffo/31/768/99
+ Linkedin : it.linkedin.com/in/umbertogriffo
  Twitter : @UmbertoGriffo
  
  DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.

@@ -1,6 +1,6 @@
 /*
  Authors : Umberto Griffo <umberto.griffo@gmail.com>
- Linkedin : it.linkedin.com/pub/umberto-griffo/31/768/99
+ Linkedin : it.linkedin.com/in/umbertogriffo
  Twitter : @UmbertoGriffo
  
  DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
@@ -29,14 +29,14 @@ import org.gephi.graph.api.*;
 import org.umberto.data_structure_utils.SortedMapInteger;
 
 /**
- * Simulation of dynamic network.
+ * Simulation of Evolving Dynamic Network.
  *
  * @author Umberto Griffo
  */
 public abstract class Dynamic {
 
     public static final String TIMESTAMPS = "dnf_timestamps";
-    private final static Logger LOGGER = Logger.getLogger("org.umberto.dynamic");
+    private final static Logger LOGGER = Logger.getLogger("evolving.dynamic.networks");
     private static HashMap<Integer, Integer> map_edge_frequency;
     private static SortedMap<Integer, Integer> sorted_map_frequency_edge;
     //Fast manipulation data structure
@@ -162,7 +162,7 @@ public abstract class Dynamic {
         int[] presenceSchedule;
         LongLinkedOpenHashSet edge_time = Dynamic.getEdgeTimes(e);
         if (edge_time.isEmpty()) {
-            throw new NullPointerException("The edge don't exist in no time");
+            throw new NullPointerException("The edge doesn't exist in no time");
         } else {
             presenceSchedule = new int[(int) (duration)];
             /**
@@ -193,7 +193,7 @@ public abstract class Dynamic {
         int[] presenceSchedule;
         LongLinkedOpenHashSet node_time = Dynamic.getNodeTimes(n);
         if (node_time.isEmpty()) {
-            throw new NullPointerException("The node don't exist in no time");
+            throw new NullPointerException("The node doesn't exist in no time");
         } else {
             presenceSchedule = new int[(int) (duration)];
             /**
@@ -269,7 +269,7 @@ public abstract class Dynamic {
      *
      * @param n set's size.
      * @param arr_edgesID ID list of a sample of Edges.
-     * @return array with edgeID|null. null if the graph structure don't exist.
+     * @return array with edgeID|null. null if the graph structure doesn't exist.
      */
     public static IntLinkedOpenHashSet getNMostFrequencyEdgeID(int n, IntLinkedOpenHashSet arr_edgesID) {
         IntLinkedOpenHashSet arr_NMostFrequencyEdge = null;
@@ -289,7 +289,7 @@ public abstract class Dynamic {
                 }
             }
             //edges descending ordered by frequency
-            //Sorted map contains the edges as key, ordered by edges' frequency value
+            //Sorted map contains the edges as key, ordered by edge's frequency value
             SortedMapInteger map = new SortedMapInteger(map_edge_frequency);
             Map<Integer, Integer> sorted_map = map.sortByValueDescending();
 //            System.out.println("results");
